@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Rifqy 👋
 
-<!--
-**rifqysukabelajar/rifqysukabelajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Informatics undergraduate student with a strong interest in frontend development.
+Currently focusing on building small web projects using HTML, CSS, and JavaScript
+to strengthen my fundamentals and problem-solving skills.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Currently Learning
+- JavaScript fundamentals
+- DOM manipulation
+- Basic state management
+
+### 🚀 Projects
+- Todo List App (Frontend Mentor Challenge)
+
+### 🎯 Goals
+- Improve frontend development skills consistently
+- Build real-world style projects
+- Prepare for internship opportunities
